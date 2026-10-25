@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "minecraftVersion": "26.2",
+  "modLoader": {
+    "type": "fabric",
+    "version": "0.15.7"
+  },
+  "server": {
+    "address": "YOUR_PC_IP_ADDRESS_HERE",
+    "port": 25565
+  },
+  "mods": [
+    {
+      "name": "Waystones",
+      "fileName": "waystones-fabric-26.2-26.2.0.12.jar"
+    }
+  ]
+}
